@@ -1,6 +1,3 @@
 # test
 
-aaa
-bbb
-ccc
-ddd
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taroyabuki/test/blob/master/r.ipynb)
