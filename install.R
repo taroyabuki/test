@@ -1,1 +1,1 @@
-install.packages(c("ggplot2"))
+install.packages(c("ggplot2", "magick"))
